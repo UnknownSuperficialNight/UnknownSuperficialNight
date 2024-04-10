@@ -7,3 +7,10 @@
 <a href="https://github.com/UnknownSuperficialNight">
 <img alt="langs" align="left" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownSuperficialNight&show_icons=true&theme=blue_navy&layout=donut&hide_border=true"/>
 </a>
+
+### Editor
+
+<a href="https://github.com/UnknownSuperficialNight">
+<img alt="icon_vscodium" align="bottom" src="https://img.shields.io/badge/VSCodium-00ff00?style=for-the-badge&logo=vscodium&logoColor=2F80ED&labelColor=000000&color=708090&link=https%3A%2F%2Fvscodium.com"/>
+</a>
+
