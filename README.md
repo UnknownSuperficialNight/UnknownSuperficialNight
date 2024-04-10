@@ -5,7 +5,7 @@
 <img alt="wakatime" align="center" height=200 width="46%" src="https://github-readme-stats.vercel.app/api/wakatime?username=SuperficialNight&theme=codeSTACKr&custom_title=Time%20Spent:&line_height=10&langs_count=10&bg_color=60,581845,7986cb"/>
 </a>
 <a href="https://github.com/UnknownSuperficialNight">
-<img alt="langs" align="center"  width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownSuperficialNight&show_icons=true&theme=blue_navy&layout=donut&hide_border=true"/>
+<img alt="langs" align="center"  width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownSuperficialNight&show_icons=true&theme=blue_navy&layout=donut&hide_border=true"/>
 </a>
 
 <a href="https://vscodium.com">
