@@ -46,5 +46,6 @@
     <img alt="icon_vscodium" align="bottom"
       src="https://img.shields.io/badge/VSCodium-00ff00?style=for-the-badge&logo=vscodium&logoColor=2F80ED&labelColor=000000&color=708090&link=https%3A%2F%2Fvscodium.com" /></a>
   <hr />
+  <h3 align="left">Visits:</h3>
   <a href="https://github.com/UnknownSuperficialNight"><img
       src="https://profile-counter.glitch.me/UnknownSuperficialNight/count.svg" /></a>
