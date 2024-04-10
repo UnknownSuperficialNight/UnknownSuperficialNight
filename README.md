@@ -11,12 +11,12 @@
   <div class="language-list">
     <a href="https://www.gnu.org/software/bash" target="_blank" rel="noreferrer"><img
         src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/SVG/48x48_white.svg" alt="bash"
-        width="40" height="40" /></a>
+        width="60" height="60" /></a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"><img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-        width="40" height="40" /></a>
+        width="60" height="60" /></a>
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img
-        src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="40" height="40" /></a>
+        src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="60" height="60" /></a>
   </div>
 
   <hr />
@@ -24,10 +24,10 @@
   <h3 align="left">Tools:</h3>
   <div class="Tools-list">
     <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img
-        src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40"
-        height="40" /></a>
+        src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="60"
+        height="60" /></a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img
-        src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /></a>
+        src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="60" /></a>
   </div>
 
   <hr />
@@ -36,8 +36,8 @@
 
   <div class="OS">
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/150px-Tux.svg.png" alt="linux" width="40"
-        height="40" /></a>
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/150px-Tux.svg.png" alt="linux" width="60"
+        height="60" /></a>
   </div>
   <hr />
 
