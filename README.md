@@ -16,4 +16,4 @@
 <img alt="icon_vscodium" align="bottom" src="https://img.shields.io/badge/VSCodium-00ff00?style=for-the-badge&logo=vscodium&logoColor=2F80ED&labelColor=000000&color=708090&link=https%3A%2F%2Fvscodium.com"/>
 </a>
 <hr/>
-<a href="https://github.com/UnknownSuperficialNight"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUnknownSuperficialNight&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visits&edge_flat=false"/></a>
+<a href="https://github.com/UnknownSuperficialNight"><img src="https://profile-counter.glitch.me/UnknownSuperficialNight/count.svg"/></a>
