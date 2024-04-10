@@ -9,9 +9,32 @@
 </a>
 
 <hr/>
-  
-### Editor
 
+<h3 align="left">Languages:</h3>
+<p 
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="40" height="40"/> </a> 
+</p>
+
+<hr/>
+
+<h3 align="left">Tools:</h3>
+
+<p 
+<a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+</p>
+
+<hr/>
+
+<h3 align="left">OS:</h3>
+
+<p 
+</p> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/150px-Tux.svg.png" alt="linux" width="40" height="40"/> </a>
+<hr/>
+
+<h3 align="left">Editor:</h3>
 <a href="https://vscodium.com">
 <img alt="icon_vscodium" align="bottom" src="https://img.shields.io/badge/VSCodium-00ff00?style=for-the-badge&logo=vscodium&logoColor=2F80ED&labelColor=000000&color=708090&link=https%3A%2F%2Fvscodium.com"/>
 </a>
