@@ -37,8 +37,8 @@
   <h3 align="left">OS:</h3>
 
   <div class="OS">
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/150px-Tux.svg.png" alt="linux" width="60"
+    <a href="https://www.gentoo.org" target="_blank" rel="noreferrer"><img
+        src="https://www.gentoo.org/assets/img/logo/gentoo-3d-small.png" alt="linux_gentoo" width="60"
         height="60" /></a>
   </div>
   <hr />
