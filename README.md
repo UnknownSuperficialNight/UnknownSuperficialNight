@@ -52,12 +52,6 @@
         src="https://img.shields.io/badge/VSCodium-00ff00?style=for-the-badge&logo=vscodium&logoColor=2F80ED&labelColor=000000&color=708090&link=https%3A%2F%2Fvscodium.com" /></a>
     
   </div>
-  <div>
-    <a href="https://zed.dev">
-      <img alt="icon_zed" align="bottom"
-        src="https://img.shields.io/badge/Zed-00ff00?style=for-the-badge&logo=zedindustries&logoColor=084CCF&labelColor=000000&color=708090&link=https%3A%2F%2Fzed.dev" />
-    </a>
-  </div>
   <hr />
   <h3 align="left">Visits:</h3>
   <a href="https://github.com/UnknownSuperficialNight"><img
