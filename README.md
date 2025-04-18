@@ -4,7 +4,9 @@
       src="https://github-readme-stats.vercel.app/api?username=UnknownSuperficialNight&show_icons=true&theme=neon&locale=en&hide_border=true" /></a>
   <a href="https://github.com/UnknownSuperficialNight"><img alt="langs" align="right" width="425"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownSuperficialNight&show_icons=true&theme=blue_navy&layout=donut&hide_border=true" /></a>
-
+  <a href="https://github.com/UnknownSuperficialNight"><img alt="langs" align="right" width="425" 
+      src="https://streak-stats.demolab.com?user=UnknownSuperficialNight&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" /></a>
+      
   <hr />
 
   <h3 align="left">Languages:</h3>
@@ -47,14 +49,15 @@
 
 <h3 align="left">Editor:</h3>
 <div>
-  <a href="https://vscodium.com"> 
-  <div>
+  <div style="display: flex; flex-direction: column;">
     <a href="https://vscodium.com">
       <img alt="icon_vscodium" align="bottom"
-        src="https://img.shields.io/badge/VSCodium-00ff00?style=for-the-badge&logo=vscodium&logoColor=2F80ED&labelColor=000000&color=708090&link=https%3A%2F%2Fvscodium.com" /></a>
+        src="https://img.shields.io/badge/VSCodium-00ff00?style=for-the-badge&logo=vscodium&logoColor=2F80ED&labelColor=000000&color=708090&link=https%3A%2F%2Fvscodium.com" />
+    </a>
     <a href="https://zed.dev/">
       <img alt="icon_zed" align="bottom"
-        src="https://img.shields.io/badge/Zed-00ff00?style=for-the-badge&logo=zedindustries&logoColor=2F80ED&labelColor=000000&color=708090&link=https%3A%2F%2Fzed.dev" /></a>
+        src="https://img.shields.io/badge/Zed-00ff00?style=for-the-badge&logo=zedindustries&logoColor=2F80ED&labelColor=000000&color=708090&link=https%3A%2F%2Fzed.dev" />
+    </a>
   </div>
   <hr />
   <h3 align="left">Visits:</h3>
