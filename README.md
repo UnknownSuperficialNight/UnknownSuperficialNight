@@ -25,11 +25,13 @@
 
   <h3 align="left">Tools:</h3>
   <div class="Tools-list">
-    <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img
+    <a href="https://www.qt.io" target="_blank" rel="noreferrer"><img
         src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="60"
         height="60" /></a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img
+    <a href="https://www.sqlite.org" target="_blank" rel="noreferrer"><img
         src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="60" /></a>
+    <a href="https://inkscape.org" target="_blank" rel="noreferrer"><img
+        src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg" alt="inkscape" width="60" height="60" /></a>
   </div>
 
   <hr />
