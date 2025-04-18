@@ -47,18 +47,17 @@
   </div>
   <hr />
 
-<h3 align="left">Editor:</h3>
-<div>
-  <div style="display: flex; flex-direction: column;">
-    <a href="https://vscodium.com">
-      <img alt="icon_vscodium" align="bottom"
-        src="https://img.shields.io/badge/VSCodium-00ff00?style=for-the-badge&logo=vscodium&logoColor=2F80ED&labelColor=000000&color=708090&link=https%3A%2F%2Fvscodium.com" />
-    </a>
-    <a href="https://zed.dev/">
-      <img alt="icon_zed" align="bottom"
-        src="https://img.shields.io/badge/Zed-00ff00?style=for-the-badge&logo=zedindustries&logoColor=2F80ED&labelColor=000000&color=708090&link=https%3A%2F%2Fzed.dev" />
-    </a>
-  </div>
+  <h3 align="left">Editor:</h3>
+    <div class="Editors">
+      <a href="https://vscodium.com" target="_blank" rel="noreferrer">
+        <img alt="icon_vscodium"
+          src="https://upload.vectorlogo.zone/logos/vscodium/images/fd59a2a0-9b42-48b2-89bb-e30ae6bb3e92.svg" width="60" height="60" />
+      </a>
+      <a href="https://zed.dev" target="_blank" rel="noreferrer"><img>
+        <img alt="icon_zed"
+          src="https://raw.githubusercontent.com/simple-icons/simple-icons/07fff803fe601ec248ac24c3b5458597344a1566/icons/zedindustries.svg" width="60" height="60" />
+      </a>
+    </div>
   <hr />
   <h3 align="left">Visits:</h3>
   <a href="https://github.com/UnknownSuperficialNight"><img
