@@ -49,14 +49,11 @@
 
   <h3 align="left">Editor:</h3>
     <div class="Editors">
-      <a href="https://vscodium.com" target="_blank" rel="noreferrer">
-        <img alt="icon_vscodium"
-          src="https://upload.vectorlogo.zone/logos/vscodium/images/fd59a2a0-9b42-48b2-89bb-e30ae6bb3e92.svg" width="60" height="60" />
-      </a>
-      <a href="https://zed.dev" target="_blank" rel="noreferrer"><img>
-        <img alt="icon_zed"
-          src="https://raw.githubusercontent.com/simple-icons/simple-icons/07fff803fe601ec248ac24c3b5458597344a1566/icons/zedindustries.svg" width="60" height="60" />
-      </a>
+      <a href="https://vscodium.com" target="_blank" rel="noreferrer"><img
+          src="https://upload.vectorlogo.zone/logos/vscodium/images/fd59a2a0-9b42-48b2-89bb-e30ae6bb3e92.svg" alt="icon_vscodium" width="60"
+          height="60" /></a>
+      <a href="https://zed.dev" target="_blank" rel="noreferrer"><img
+          src="https://raw.githubusercontent.com/simple-icons/simple-icons/07fff803fe601ec248ac24c3b5458597344a1566/icons/zedindustries.svg" alt="icon_zed" width="60" height="60" /></a>
     </div>
   <hr />
   <h3 align="left">Visits:</h3>
