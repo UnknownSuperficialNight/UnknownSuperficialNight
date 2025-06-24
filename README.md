@@ -18,7 +18,7 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
         width="60" height="60" /></a>
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-  <img src="https://test1.8292.site/Rust_programming_language_white_logo.svg" alt="rust" width="60" height="60" />
+  <img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-512x512.png?raw=true" alt="rust" width="60" height="60" />
 </a>
 
   </div>
