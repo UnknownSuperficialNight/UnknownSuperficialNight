@@ -44,6 +44,9 @@
     <a href="https://www.gentoo.org" target="_blank" rel="noreferrer"><img
         src="https://www.gentoo.org/assets/img/logo/gentoo-3d-small.png" alt="linux_gentoo" width="60"
         height="60" /></a>
+    <a href="https://artixlinux.org/" target="_blank" rel="noreferrer"><img
+        src="https://artixlinux.org/img/artix-logo.png" alt="linux_artix" width="60"
+        height="60" /></a>
   </div>
   <hr />
 
