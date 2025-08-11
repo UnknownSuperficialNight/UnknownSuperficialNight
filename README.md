@@ -61,4 +61,4 @@
   <hr />
   <h3 align="left">Visits:</h3>
   <a href="https://github.com/UnknownSuperficialNight"><img
-      src="https://profile-counter.glitch.me/UnknownSuperficialNight/count.svg" /></a>
+      src="https://komarev.com/ghpvc/?username=UnknownSuperficialNight&color=blueviolet" /></a>
