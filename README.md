@@ -11,6 +11,9 @@
 
   <h3 align="left">Languages:</h3>
   <div class="language-list">
+    <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"><img
+        src="https://github.com/ryanoasis/nerd-fonts/blob/master/src/svgs/powershell.svg" alt="bash"
+        width="60" height="60" /></a>
     <a href="https://www.gnu.org/software/bash" target="_blank" rel="noreferrer"><img
         src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/SVG/48x48_white.svg" alt="bash"
         width="60" height="60" /></a>
